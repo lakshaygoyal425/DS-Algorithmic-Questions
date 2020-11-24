@@ -12,7 +12,7 @@ I've created this repository to learn about algorithms. I am adding solutions co
 ### Arrays
 1) [Reverse an Array](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Reverse%20Array.cpp)
 2) [Find Max & Min number in Array](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Max%20Min%20in%20Array.cpp)
-
+3) [Find Kth Max & Min number in Array](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Max%20Min%20kth%20in%20Array.cpp)
 
 
 
