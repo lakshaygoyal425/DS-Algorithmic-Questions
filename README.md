@@ -17,7 +17,7 @@ I've created this repository to learn about algorithms. I am adding solutions co
 5) [Move all the negative elements to beginning of the array](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Move%20negative%20elements%20to%20beginning.cpp)
 6) [Move all the negative elements to end of the array](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Move%20negative%20elements%20to%20end.cpp)
 7) [Union and Intersection of Two Sorted Array](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Union%20and%20Intersection%20of%20two%20sorted%20array.cpp)
-
+8) [To cyclically rotate an array by one](
 
 
 
