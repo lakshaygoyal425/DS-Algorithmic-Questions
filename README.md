@@ -24,6 +24,7 @@ I've created this repository to learn about algorithms. I am adding solutions co
 9) [Occurrence of an integer in the array](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Occurence%20of%20an%20Integer%20in%20an%20Array.cpp)
 10) [Range and Coefficient of range of Array](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Range%20and%20Coefficient%20of%20range%20of%20Array.cpp)
 11) [Selection Sort](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Selection%20Sort.cpp)
+12) [Merge Sort]()
 
 ## Level-2 (Medium)
 1) [To cyclically rotate an array by one](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/To%20cyclically%20rotate%20an%20array%20by%20one.cpp)
