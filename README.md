@@ -25,6 +25,7 @@ I've created this repository to learn about algorithms. I am adding solutions co
 10) [Range and Coefficient of range of Array](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Range%20and%20Coefficient%20of%20range%20of%20Array.cpp)
 11) [Selection Sort](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Selection%20Sort.cpp)
 12) [Merge Sort](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Merge%20Sort.cpp)
+13) [Bubble Sort](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Bubble%20Sort.cpp)
 
 
 ## Level-2 (Medium)
