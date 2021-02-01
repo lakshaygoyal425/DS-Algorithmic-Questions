@@ -36,6 +36,8 @@ I've created this repository to learn about algorithms. I am adding solutions co
 5) [Merge Without Extra Space](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Merge%20Without%20Extra%20Space.cpp)
 
 
+### Matrix
+
 ## Contribute
 
 Did you find a bug? Any way to do it better? Please feel free to pull-request it. :)
