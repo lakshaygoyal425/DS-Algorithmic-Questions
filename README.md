@@ -39,7 +39,7 @@ I've created this repository to learn about algorithms. I am adding solutions co
 ### Matrix
 
 1) [Spiral Traveral on a Matrix](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Spiral%20Traveral%20on%20a%20Matrix.cpp)
-2) [Search Element in Sorted Array]()
+2) [Search Element in Sorted Array](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Search%20Element%20in%20Sorted%20Array.cpp)
 
 ## Contribute
 
