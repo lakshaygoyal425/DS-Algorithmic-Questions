@@ -44,6 +44,8 @@ I've created this repository to learn about algorithms. I am adding solutions co
 3) [Rotate a Matrix by 90](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Rotate%20a%20Matrix%20by%2090.cpp)
 
 
+### Strings
+
 ## Contribute
 
 Did you find a bug? Any way to do it better? Please feel free to pull-request it. :)
