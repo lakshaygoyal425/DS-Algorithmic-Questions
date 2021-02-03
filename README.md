@@ -40,7 +40,7 @@ I've created this repository to learn about algorithms. I am adding solutions co
 
 1) [Spiral Traveral on a Matrix](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Spiral%20Traveral%20on%20a%20Matrix.cpp)
 2) [Search Element in Sorted Array](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Search%20Element%20in%20Sorted%20Array.cpp)
-3) [Row with max 1's]()
+3) [Row with max 1's](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Row%20with%20max%201's.cpp)
 
 
 ## Contribute
