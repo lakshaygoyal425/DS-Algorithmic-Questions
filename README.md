@@ -46,7 +46,7 @@ I've created this repository to learn about algorithms. I am adding solutions co
 
 ### Strings
 
-1) [Reverse a String]()
+1) [Reverse a String](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Reverse%20String.cpp)
 2) [String Palindrome or not](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/String%20Palindrome%20or%20not.cpp)
 
 ## Contribute
