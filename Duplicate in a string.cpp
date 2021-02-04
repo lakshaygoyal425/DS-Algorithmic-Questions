@@ -6,7 +6,7 @@ void printDuplicate(string s)
 	int count[256] = {};
 	for(int i=0;i<s.size();i++)
 	{
-		count[s[i]]++;
+		count[s[i]]++;  //increment the count of each character by using ASCII of character as key
 	}
 	
 	for(int i=0;i<s.size();i++)
