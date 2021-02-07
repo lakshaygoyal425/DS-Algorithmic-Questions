@@ -49,6 +49,7 @@ I've created this repository to learn about algorithms. I am adding solutions co
 2) [String Palindrome or not](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/String%20Palindrome%20or%20not.cpp)
 3) [Duplicate in a string](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Duplicate%20in%20a%20string.cpp)
 4) [Anagram String](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Anagram%20String.cpp)
+5) [Atoi](_
 
 ## Contribute
 
