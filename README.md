@@ -51,6 +51,8 @@ I've created this repository to learn about algorithms. I am adding solutions co
 4) [Anagram String](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Anagram%20String.cpp)
 5) [Atoi](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Atoi.cpp)
 
+### Linked List
+
 ## Contribute
 
 Did you find a bug? Any way to do it better? Please feel free to pull-request it. :)
