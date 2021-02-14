@@ -2,7 +2,7 @@
   
 ### Arrays
 
-1) [Reverse an Array](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Reverse%20Array.cpp)
+1) [Reverse an Array](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Data%20Structure/Arrays/Reverse%20Array.cpp)
 2) [Find Max & Min number in Array](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Max%20Min%20in%20Array.cpp)
 3) [Find Kth Max & Min number in Array](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Max%20Min%20kth%20in%20Array.cpp)
 4) [Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Sort%20of%20an%20Array%200%2C1%2C2.cpp)
