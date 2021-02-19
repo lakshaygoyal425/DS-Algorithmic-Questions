@@ -7,3 +7,4 @@
 3) [Insert at End](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Data%20Structure/Single%20Linked%20List/Insert%20at%20End.cpp)
 4) [Insert at Position](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Data%20Structure/Single%20Linked%20List/Insert%20at%20Middle.cpp)
 5) [Delete First Node](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Data%20Structure/Single%20Linked%20List/Delete%20first%20node.cpp)
+6) [Delete at Middle](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Data%20Structure/Single%20Linked%20List/Delete%20at%20Middle.cpp)
