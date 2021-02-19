@@ -12,6 +12,7 @@ I've created this repository to learn about algorithms. I am adding solutions co
 # Topics Covered
 
 ### [1. Arrays](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Arrays)
+### [2. Single Linked List](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Single%20Linked%20List)
 
 
 
