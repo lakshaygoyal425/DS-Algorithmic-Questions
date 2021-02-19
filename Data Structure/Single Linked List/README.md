@@ -10,3 +10,4 @@
 6) [Delete at Middle](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Data%20Structure/Single%20Linked%20List/Delete%20at%20Middle.cpp)
 7) [Delete Last Node](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Data%20Structure/Single%20Linked%20List/Delete%20last%20node.cpp)
 8) [Delete All Nodes](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Data%20Structure/Single%20Linked%20List/Delete%20all%20nodes.cpp)
+9) [Intersection of Two Sorted List](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Data%20Structure/Single%20Linked%20List/Intersection%20of%20Two%20Sorted%20List.cpp)
