@@ -14,3 +14,4 @@
 10) [Remove Duplicated from Sorted List](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Data%20Structure/Single%20Linked%20List/Remove%20Duplicates%20from%20Sorted%20List.cpp)
 11) [Reverse Linked List Iterative](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Data%20Structure/Single%20Linked%20List/Reverse%20Linked%20List%20Iterative.cpp)
 12) [Reverse Linked List Recursive](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Data%20Structure/Single%20Linked%20List/Reverse%20Linked%20List%20Recursive.cpp)
+13) [Reverse Linked List in Group of given size](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Data%20Structure/Single%20Linked%20List/Reverse%20a%20Linked%20List%20in%20groups%20of%20given%20size.cpp)
