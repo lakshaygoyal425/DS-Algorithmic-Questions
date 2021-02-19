@@ -12,3 +12,5 @@
 8) [Delete All Nodes](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Data%20Structure/Single%20Linked%20List/Delete%20all%20nodes.cpp)
 9) [Intersection of Two Sorted List](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Data%20Structure/Single%20Linked%20List/Intersection%20of%20Two%20Sorted%20List.cpp)
 10) [Remove Duplicated from Sorted List](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Data%20Structure/Single%20Linked%20List/Remove%20Duplicates%20from%20Sorted%20List.cpp)
+11) [Reverse Linked List Iterative](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/blob/main/Data%20Structure/Single%20Linked%20List/Reverse%20Linked%20List%20Iterative.cpp)
+12) 
