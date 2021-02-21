@@ -14,7 +14,7 @@ I've created this repository to learn about algorithms. I am adding solutions co
 ### [1. Arrays](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Arrays)
 ### [2. Single Linked List](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Single%20Linked%20List)
 ### [3. Double Linked List](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Double%20Linked%20List)
-
+### [4. Circular Linked List](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Circular%20Linked%20List)
 
 ## Contribute
 
