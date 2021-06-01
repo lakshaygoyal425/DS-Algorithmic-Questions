@@ -18,6 +18,7 @@ I've created this repository to learn about algorithms. I am adding solutions co
 ### [5. Stack](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Stack)
 ### [6. Matrix](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Matrix)
 ### [7. String](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/String)
+### [8. Graph](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Graph)
 
 ## Contribute
 
