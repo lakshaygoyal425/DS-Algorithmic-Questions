@@ -3,7 +3,7 @@
 ![alt txt](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190529171221/Learning-Data-Structures-and-Algorithms-is-Important1-1024x424.png)
 
 This is the collection of **Algorithms, Data Structures** and **Interview Questions** with solutions.
-This repository contains my solutions for common algorithmic problems and implementation of Data Structures in C.
+This repository contains my solutions for common algorithmic problems and implementation of Data Structures in C/C++.
 I've created this repository to learn about algorithms. I am adding solutions continuously. 
 
 
