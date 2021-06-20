@@ -12,13 +12,14 @@ I've created this repository to learn about algorithms. I am adding solutions co
 # Topics Covered
 
 ### [1. Arrays](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Arrays)
-### [2. Single Linked List](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Single%20Linked%20List)
-### [3. Double Linked List](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Double%20Linked%20List)
-### [4. Circular Linked List](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Circular%20Linked%20List)
-### [5. Stack](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Stack)
-### [6. Matrix](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Matrix)
-### [7. String](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/String)
-### [8. Graph](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Graph)
+### [2. Sorting](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Sorting)
+### [3. Single Linked List](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Single%20Linked%20List)
+### [4. Double Linked List](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Double%20Linked%20List)
+### [5. Circular Linked List](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Circular%20Linked%20List)
+### [6. Stack](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Stack)
+### [7. Matrix](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Matrix)
+### [8. String](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/String)
+### [9. Graph](https://github.com/lakshaygoyal425/DS-Algorithmic-Questions/tree/main/Data%20Structure/Graph)
 
 ## Contribute
 
