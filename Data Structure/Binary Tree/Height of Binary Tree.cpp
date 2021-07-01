@@ -1,44 +1,31 @@
-#include<stdio.h>
-#include<stdlib.h>
+#include <bits/stdc++.h>
+using namespace std;
 
-struct node {
-	int data;
-	struct node* left;
-	struct node* right;
+struct Node  
+{ 
+  int key; 
+  struct Node *left; 
+  struct Node *right; 
+  Node(int k){
+      key=k;
+      left=right=NULL;
+  }
 };
 
-int maxDepth(struct node* node)
-{
-	if(node == NULL)
-		return -1;
-	else {
-		int lDepth = maxDepth(node->left);
-		int rDepth = maxDepth(node->right);
-		
-		if(lDepth > rDepth)
-			return (lDepth+1);
-		else
-			return (rDepth+1);	
-	}	
-}
+int height(Node *root){
+    if(root==NULL)
+        return 0;
+    else
+        return (1+max(height(root->left),height(root->right)));
+}  
 
-struct node* newNode(int data)
-{
-	struct node* node = (struct node*)malloc(sizeof(struct node));
-	node->data = data;
-	node->left = NULL;
-	node->right = NULL;
+int main() {
 	
-	return node;
-}
-
-int main()
-{
-	struct node* root = newNode(1);
-	root->left = newNode(2);
-	root->right = newNode(3);
-	root->left->left = newNode(4);
-	root->left->right = newNode(5);
+	Node *root=new Node(10);
+	root->left=new Node(20);
+	root->right=new Node(30);
+	root->right->left=new Node(40);
+	root->right->right=new Node(50);
 	
-	printf("Height of tree is %d", maxDepth(root));
+	cout<<height(root);
 }
